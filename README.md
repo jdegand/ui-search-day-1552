@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [Screenshots](#screenshots)
+- [Link](#link)
 - [Continued Development](#continued-development)
 - [Useful Resources](#useful-resources)
 
@@ -18,6 +19,10 @@
 ![](ui-search-day-1552-tablet.png "tablet")
 
 ![](ui-search-day-1552-mobile.png "mobile - didn't adapt purple background")
+
+## Link
+
+- [Github Pages](https://jdegand.github.io/ui-search-day-1552)
 
 ## Continued Development
 
